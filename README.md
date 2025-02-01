@@ -1,1 +1,1 @@
-# Pomodoro-Timer-
+The Pomodoro Timer project is designed to help schedule work and break intervals efficiently. It uses the Pomodoro technique, where users focus on work for a specific period, followed by short breaks. For extended work sessions, a longer break is allotted. The project is implemented using the Tkinter module to provide a user-friendly interface for managing these time intervals.
